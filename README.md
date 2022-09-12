@@ -2,7 +2,7 @@
 
 ## FullStack Software Developer
 
-I've been coding for 3.5 years now, and I'm proud to be strong with Javascript on both the backend and frontend. My favorite frameworks are React.js React Native and Express.js
+I'm a dedicated and hard working fullstack developer with a flair for creating elegant solutions in the least amount of time. As a critical thinker and creative designer, I'm a firm believer that any problem can be solved with a little ingenuity. I've been coding for 3.5 years now, and I'm proud to be strong with Javascript on both the backend and frontend. My favorite frameworks are React.js React Native and Express.js
 
 - 🌍  I'm based in Kampala, Uganda
 - 🖥️  See my portfolio at [paul-owori.github.io](http://paul-owori.github.io)
